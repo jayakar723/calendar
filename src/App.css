@@ -1,0 +1,68 @@
+.containter{
+display: flex;
+flex: 1;
+float: right;
+}
+.display-form{
+
+  margin-top: 30px;
+  margin-left: 90px;
+}
+
+.stateless{
+  margin: 40px auto;
+}
+input[type=text]{
+  width: 200px;
+  height: 25px;
+}
+
+button {
+  margin: auto 40px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.Form-Content{
+  display: flex;
+}
+.text-to-show{
+  margin: auto 60px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  color: blue;
+}
+.button1{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.button2{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.jqry{
+  text-align: center;
+  margin-top: 30px;
+
+}
+
+.btn-jqry{
+  margin-top: 30px;
+}
